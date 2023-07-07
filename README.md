@@ -87,7 +87,7 @@ Layer 1 are agencies. The income from them is: 1000+ $:
 
 ##### Layer 2
 
-Layer 2 are agencies with at least one an intro or technical call:
+Layer 2 are agencies with at an intro or technical call:
 
 - [https://empathytalent.com](https://empathytalent.com): Contracts: 1;
 
