@@ -66,13 +66,13 @@ Layer 1 are job boards. The income from them is: 1000+ $;
 Layer 2 are job boards with at least one an intro or technical call;
 
 - [https://www.usebraintrust.com](https://www.usebraintrust.com/);
+- [https://www.9am.works/](https://www.9am.works/);
 
 ##### Layer 3
 
 My income from layer 3 is 0.
 
 - [https://andela.com](https://andela.com);
-- [https://www.9am.works/](https://www.9am.works/);
 
 ### web3
 
