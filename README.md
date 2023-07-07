@@ -51,6 +51,7 @@ Layer 3 are agencies with initial call between me and the agency;
 Layer 4 potential partners
 
 - [CarbonRemote.com](CarbonRemote.com);
+- [https://cord.co](https://cord.co);
 
 #### Job Boards / Freelancer tools;
 
