@@ -2,7 +2,7 @@
 
 Greetings,
 
-My name is: Dimitar Danailov. I'm a remote b2b contractor since: 2018. My goal is to share my experience and resources with you! 
+My name is: Dimitar Danailov. I'm a remote b2b contractor since: 2018. The repo contains different materials about b2b / self employment opportunities. 
 
 ## History
 
