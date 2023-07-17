@@ -2,7 +2,7 @@
 
 Greetings,
 
-My name is: Dimitar Danailov. I'm a remote b2b contractor since: 2018. My goal is to share my experience and resources with you! If you've questions book a call: https://calendly.com/danailov-consulting/partnership
+My name is: Dimitar Danailov. I'm a remote b2b contractor since: 2018. My goal is to share my experience and resources with you! 
 
 ## History
 
