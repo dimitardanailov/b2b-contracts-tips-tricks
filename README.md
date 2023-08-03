@@ -74,6 +74,7 @@ Layer 2 are job boards with at least an intro or technical call;
 My income from layer 3 is 0. I don't have job offers from the platform;
 
 - [https://andela.com](https://andela.com);
+- [https://app.socious.io/jobs](https://app.socious.io/jobs)
 
 ### web3
 
